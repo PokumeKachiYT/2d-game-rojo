@@ -1,0 +1,3 @@
+[submodule "packages/UpsideEngine"]
+	path = packages/UpsideEngine
+	url = https://github.com/TheHackerPuppy/UpsideEngine
